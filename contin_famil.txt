@@ -1,0 +1,3 @@
+	Fabaceae	Violaceae	Moraceae	Melastomataceae	Meliaceae	Malvaceae	Sapindaceae	Vochysiaceae	Myrtaceae
+Ecuador	332	208	338	350	170	680	652	272	122
+Peru	310	150	338	561	198	712	430	140	130

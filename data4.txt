@@ -1,0 +1,8 @@
+Subtipo	Genero	Expresion
+D	v	3.22
+D	m	1.02
+D	v	0.21
+D	m	-0.04
+D	m	2.11
+B	m	-1.21
+A	v	-0.2

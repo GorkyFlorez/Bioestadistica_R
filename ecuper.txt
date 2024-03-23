@@ -1,0 +1,10 @@
+	Ecuador	Peru
+Fabaceae	332	310
+Violaceae	208	150
+Moraceae	338	338
+Melastomataceae	350	561
+Meliaceae	170	198
+Malvaceae	680	712
+Sapindaceae	652	430
+Vochysiaceae	272	140
+Myrtaceae	122	130

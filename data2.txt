@@ -1,0 +1,5 @@
+edad	ciudad
+32	Cusco
+21	Puerto
+34	Arequipa
+67	Lima

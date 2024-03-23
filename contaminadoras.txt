@@ -1,0 +1,3 @@
+	Ladrillera	Yesera
+Contamina	46	25
+Acontimina	12	20

@@ -1,0 +1,13 @@
+Arbol	TratA	TratB	TratC	TratD
+Naranja1	25	33	45	68
+Naranja2	30	32	46	70
+Naranja3	40	42	51	76
+Naranja4	32	28	48	56
+Naranja5	28	16	47	54
+Naranja6	25	27	52	52
+Naranja7	15	45	54	54
+Naranja8	12	67	56	82
+Naranja9	43	87	60	90
+Naranja10	21	50	56	85
+Naranja11	22	40	58	88
+Naranja12	16	25	60	98

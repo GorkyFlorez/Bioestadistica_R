@@ -1,0 +1,5 @@
+Subtipo	Genero	Expresion
+A	m	-0.54
+A	v	-0.8
+B	v	-1.03
+C	m	-0.41
